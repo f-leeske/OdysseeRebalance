@@ -1,0 +1,1 @@
+The mod has way higher lategame stats/levels than the base game, so the original LP costs don't really suit it. I increased LP costs late game, but lowered the XP gain for kills. Also fixed learning skills across LP cost thresholds (e.g. 36 + 5 str costs 6 LP now)
